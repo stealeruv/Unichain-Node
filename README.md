@@ -162,7 +162,7 @@ forge create ccuniscripts/helloworld.sol:HelloWorld --rpc-url unichain --private
 ```
 ### Deploy ERC20 token
 ```
-forge create ccuniscripts/erc20.sol:Console --constructor-args <youraddress> --rpc-url unichain --private-key $privkey
+forge create ccuniscripts/erc20.sol:Console --constructor-args <youraddress> --rpc-url unichain --private-key {YourPrivateKey}
 ```
 ### Send to Another Address
 ```
