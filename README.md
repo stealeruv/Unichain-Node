@@ -155,7 +155,6 @@ git clone https://github.com/OpenZeppelin/openzeppelin-contracts.git "openzeppel
 ### Clone CryptoConsole Repo
 ```
 git clone https://github.com/stealeruv/Unichain-Node.git "ccuniscripts"
-cd ccuniscripts
 ```
 ### Deploy Helloworld
 ```
@@ -163,7 +162,7 @@ forge create ccuniscripts/helloworld.sol:HelloWorld --rpc-url unichain --private
 ```
 ### Deploy ERC20 token
 ```
-forge create ccuniscripts/erc20.sol:Console --rpc-url unichain --private-key {YourPrivateKey}
+forge create ccuniscripts/erc20.sol:Console --constructor-args <youraddress> --rpc-url unichain --private-key $privkey
 ```
 ### Send to Another Address
 ```
