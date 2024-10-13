@@ -156,11 +156,11 @@ cd ccuniscripts
 ```
 ### Deploy Helloworld
 ```
-forge create src/helloworld.sol:HelloWorld --rpc-url unichain --private-key {YourPrivateKey}
+forge create ccuniscripts/helloworld.sol:HelloWorld --rpc-url unichain --private-key {YourPrivateKey}
 ```
 ### Deploy ERC20 token
 ```
-forge create src/erc20.sol:Console --rpc-url unichain --private-key {YourPrivateKey}
+forge create ccuniscripts/erc20.sol:Console --rpc-url unichain --private-key {YourPrivateKey}
 ```
 ### Send to Another Address
 ```
