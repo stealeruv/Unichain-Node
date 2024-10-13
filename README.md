@@ -103,7 +103,8 @@ nano .env.sepolia
 ```
 Watch Video For reference  
 
-Get Public endpoints : https://ethereum-sepolia.publicnode.com/
+Get L1 RPC : [Drpc.org](https://drpc.org?ref=b5bbf3)
+Get Public beacon endpoints : https://ethereum-sepolia.publicnode.com/
 
 ### Start Node: 
 ```
