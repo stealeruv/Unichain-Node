@@ -160,6 +160,9 @@ git clone https://github.com/stealeruv/Unichain-Node.git "ccuniscripts"
 ```
 forge create ccuniscripts/helloworld.sol:HelloWorld --rpc-url unichain --private-key {YourPrivateKey}
 ```
+
+**Explorer** : https://sepolia.uniscan.xyz/
+
 ### Deploy ERC20 token
 ```
 forge create ccuniscripts/erc20.sol:Console --constructor-args <youraddress> --rpc-url unichain --private-key {YourPrivateKey}
