@@ -19,15 +19,6 @@ Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol)
 
 Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
----
-
-## Hardware requirements:
-
-| **Hardware** | **Minimum Requirement** |
-|--------------|-------------------------|
-| **CPU**      | 6 Cores                 |
-| **RAM**      | 8 GB                    | 
-| **Disk**     | 100  GB  SSD            |
 
 ---
 
@@ -42,6 +33,16 @@ VPS 2 : [Contabo: Cloud VPS 2](https://www.tkqlhce.com/click-101278318-13796472)
 VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
 
 VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-13796476)
+
+---
+
+## Hardware requirements:
+
+| **Hardware** | **Minimum Requirement** |
+|--------------|-------------------------|
+| **CPU**      | 6 Cores                 |
+| **RAM**      | 8 GB                    | 
+| **Disk**     | 100  GB  SSD            |
 
 ---
 
