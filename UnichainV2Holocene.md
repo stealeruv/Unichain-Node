@@ -15,20 +15,22 @@ cat ~/unichain/geth-data/geth/nodekey
 
 Save it safe
 
+---
+
 ```
 cd unichain
 ```
-### update node 
+### Update node 
 ```
 git stash
 git pull
 ```
-### change rpc
+### Change rpc
 ```
 nano .env.sepolia
 ```
 
-Change RPC to before value for OP_NODE_L1_ETH_RPC= | OP_NODE_L1_BEACON=
+**Change RPC to before value for OP_NODE_L1_ETH_RPC= | OP_NODE_L1_BEACON=**
 
 CTRL + X then Y and Press ENTER
 
@@ -36,7 +38,7 @@ CTRL + X then Y and Press ENTER
 nano .env
 ```
 
-Change the host dir 
+### Change the host dir 
 ```
 HOST_DATA_DIR=/$HOME/root/unichai/geth-data
 HOST_NODE_DATA_DIR=/$HOME/root/unichain/opnode-data
@@ -60,4 +62,7 @@ curl -X POST -H "Content-Type: application/json" --data '{"id":1,"jsonrpc":"2.0"
 ```
 
 **Output should be : {"jsonrpc":"2.0","id":1,"result":"0x0"}**
+
+
+**Follow** : https://x.com/cryptoconsol
 
