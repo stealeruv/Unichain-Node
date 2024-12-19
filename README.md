@@ -24,15 +24,20 @@ Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
 # VPS Options
 
-Credit Card/Paypal/crypto credit card : 
+💻 Contabo VPS Deals 🚀 Buy with Credit Card/Paypal/Crypto Credit card : 
 
-VPS 1 : [Contabo: Cloud VPS 1](https://www.jdoqocy.com/click-101278318-15692486) 
+Get powerful VPS solutions with these direct links:  
 
-VPS 2 : [Contabo: Cloud VPS 2](https://www.tkqlhce.com/click-101278318-13796472)
 
-VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
+| **VPS** | **Direct Link**                      | **Specs**                                                                                              |
+|---------|--------------------------------------|--------------------------------------------------------------------------------------------------------|
+| VPS 1   | [Contabo VPS 1](https://www.jdoqocy.com/click-101278318-15692486) | 4 vCPU Cores, 4 GB RAM, 100 GB NVMe or 400 GB SSD, 1 Snapshot, 32 TB Traffic, Unlimited Incoming      |
+| VPS 2   | [Contabo VPS 2](https://www.anrdoezrs.net/click-101278318-13796472) | 6 vCPU Cores, 16 GB RAM, 200 GB NVMe or 400 GB SSD, 2 Snapshots, 32 TB Traffic, Unlimited Incoming  |
+| VPS 3   | [Contabo VPS 3](https://www.dpbolvw.net/click-101278318-13796474) | 8 vCPU Cores, 24 GB RAM, 300 GB NVMe or 1.2 TB SSD, 2 Snapshots, 32 TB Traffic, Unlimited Incoming    |
+| VPS 4   | [Contabo VPS 4](https://www.anrdoezrs.net/click-101278318-13796476) | 12 vCPU Cores, 48 GB RAM, 400 GB NVMe or 1.6 TB SSD, 3 Snapshots, 32 TB Traffic, Unlimited Incoming |
 
-VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-13796476)
+
+💡 **Get started with the perfect VPS for your needs!** 🚀
 
 ---
 
