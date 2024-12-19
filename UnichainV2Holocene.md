@@ -40,7 +40,7 @@ nano .env
 
 ### Change the host dir 
 ```
-HOST_DATA_DIR=/$HOME/root/unichai/geth-data
+HOST_DATA_DIR=/$HOME/root/unichain/geth-data
 HOST_NODE_DATA_DIR=/$HOME/root/unichain/opnode-data
 ```
 
